@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Chayan Kumawat and I'm a competitive programmer and a AI enthusiast.
+My name is Chayan Kumawat and I'm a competitive programmer.
 
 <p align="center">
 <small>View Counter:</small><br>
