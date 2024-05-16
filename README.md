@@ -1,1 +1,1 @@
-from <my Bedroom>
+from my Bedroom
